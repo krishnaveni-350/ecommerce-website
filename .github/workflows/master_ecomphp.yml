@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ecomphp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B7D8CA8CF22742B7BF91F603B926662E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8B98C56DC71749259A0A92252EC655DC }}
           package: .
